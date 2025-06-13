@@ -14,8 +14,7 @@ This repository provides a simple and easy-to-use boilerplate setup for building
 * Development and production build scripts
 * API routing with Express
 * React development with Vite or Create React App (depending on your setup)
-* CORS and proxy configured for smooth communication between frontend and backend
-* Organized folder structure
+* Open folder structure ( tweak to choice )
 
 ### Folder Structure
 
