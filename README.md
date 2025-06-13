@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 ## React + Express + TypeScript Boilerplate
 
